@@ -1,0 +1,12 @@
+body {
+    background-image: url(/image/chef.jpg) ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-attachment: fixed;
+}
+
+h1 {
+    color: white;
+    background-color: black;
+}
